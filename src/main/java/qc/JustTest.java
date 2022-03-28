@@ -7,6 +7,14 @@ public class JustTest {
         System.out.println("fuckyou");
         System.out.println("fuckyou");
         System.out.println("fuckyou");
+
         System.out.println("fuckyou");
+        System.out.println("fuckyou");
+        System.out.println("fuckyou");
+        System.out.println("fuckyou");
+        System.out.println("fuckyou");
+
+
+
     }
 }
